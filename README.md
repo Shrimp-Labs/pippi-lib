@@ -13,10 +13,10 @@ Run `yarn test` to execute the test suite.
 
 ## Usage
 
-Install this in another project via `yarn add @pippiswap/pippi-lib` 
+Install this in another project via `yarn add @pippiswap/pippi-swap-lib` 
 
 Then import the contracts via:
 
 ```solidity
-import "@pippiswap/pippi-lib/contracts/access/Ownable.sol"; 
+import "@pippiswap/pippi-swap-lib/contracts/access/Ownable.sol"; 
 ```

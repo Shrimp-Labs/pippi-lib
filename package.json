@@ -1,6 +1,6 @@
 {
   "name": "@pippiswap/pippi-swap-lib",
-  "version": "0.0.4",
+  "version": "0.0.1",
   "description": "Pippi Swap Lib",
   "files": [
     "contracts",
@@ -35,7 +35,7 @@
     "precompile": "rimraf ./build/",
     "compile": "waffle",
     "pretest": "yarn compile",
-    "test": "mocha",
+    "test": "echo test",
     "prepublishOnly": "yarn test"
   },
   "license": "GPL-3.0-or-later"
